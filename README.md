@@ -13,6 +13,16 @@
 1. Рекомендация игр на основании игр, в которые пользователь уже играл.
 2. Рекомендация игр по текстовому запросу в свободной форме от пользователя.
 
+## Данные
+Для этого проекта есть три вида источников данных:
+1. Список всех игр на Steam и их детальные характеристики:  [Steam Games Dataset](https://www.kaggle.com/datasets/fronkongames/steam-games-dataset)
+2. Датасет отзывов пользователей на игры:
+    - [Steam Reviews Dataset 2021](https://www.kaggle.com/datasets/najzeko/steam-reviews-2021)
+    - [Steam Reviews Dataset](https://www.kaggle.com/datasets/forgemaster/steam-reviews-dataset)
+    - [Steam Store Apps Reviews](https://www.kaggle.com/datasets/souyama/steam-reviews)
+    - Собственный датасет отзывов пользователей на игры: парсинг в процессе
+      
+3. Собственный датасет библиотек пользователей и часов, наигранных в каждой игре: парсинг в процессе
 
 ## План работы
 ### Сбор данных
