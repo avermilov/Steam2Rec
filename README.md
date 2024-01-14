@@ -6,6 +6,9 @@
 
 Команда: [Артемий Ермилов](https://github.com/avermilov), [Ассоль Кубаева](https://github.com/kubaevaassol), [Арина Неволина](https://github.com/nevolinaa), [Артем Поспелов](https://github.com/artem-pospelov)
 
+Ссылка на бот в тг: @games4youbot
+
+Репозиторий с ботом: https://github.com/kubaevaassol/recommendation_game_bot (приватный репозиторий)
 ## Задача проекта
 Создание сервиса для рекомендации игр на Steam.
 
